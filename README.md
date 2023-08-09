@@ -1,7 +1,7 @@
 
 # react-confirm-window
 
-react-confirm is a lightweight library that simplifies the implementation of window confirmation dialogs in React applications by offering a Promise-based API that works seamlessly with async/await syntax, similar to window.confirm.
+react-confirm-window is a lightweight library that simplifies the implementation of window confirmation dialogs in React applications by offering a Promise-based API that works seamlessly with async/await syntax, similar to window.confirm.
 
 It provides various customization options and can be used just by calling the useConfirm hook.
 

@@ -1,7 +1,7 @@
 {
   "name": "react-confirm-window",
-  "version": "1.0.01",
-  "description": "Confirm modal component for react",
+  "version": "1.0.03",
+  "description": "window.confirm modal component for react",
   "main": "build/index.js",
   "keywords": [
     "react",
