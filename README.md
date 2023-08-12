@@ -115,6 +115,6 @@ function Component() {
 
 ## Screenshots
 <img width="739" alt="Screenshot 2023-08-09 at 11 09 14 PM" src="https://github.com/SubhasishSarkar/react-confirm-window/assets/30510392/e27446b2-3184-47b0-927c-7486c1e32912">
-<img width="739" alt="Screenshot 2023-08-09 at 11 09 14 PM" src="https://github.com/SubhasishSarkar/react-confirm-window/assets/30510392/ed57055b-1ff0-4315-9cf2-e94e26c98a49">
+<img width="739" alt="Screenshot 2023-08-12 at 12 55 12 PM" src="https://github.com/SubhasishSarkar/react-confirm-window/assets/30510392/dddc07b7-303f-4fdf-83f0-66a3ece475fd">
 
 
