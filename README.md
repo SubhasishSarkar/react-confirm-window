@@ -15,7 +15,7 @@ It provides various customization options and can be used just by calling the us
 
 
 ## Usage/Examples
-For default modal component provide by the library : 
+### For default modal component provide by the library : 
 Wrapper your App with the ConfirmDialogProvider
 ```javascript
 import ConfirmDialogProvider from 'react-confirm-window'
@@ -54,7 +54,7 @@ function Component() {
 }
 ```
 
-For custom modal component :
+### For custom modal component :
 Create a modal commonent with props onClose and onConfirm. Use these two props in your onClick of close and confirm buttons respectively 
 ```javascript
 function MyConfirmWindow({ onClose, onConfirm, title }) {
