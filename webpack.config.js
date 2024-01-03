@@ -33,5 +33,8 @@ module.exports = {
           amd: "ReactDOM",
           root: "ReactDOM"
         }
-    }
+    },
+    resolve: {
+        extensions: ['.js'],
+    },
 }
