@@ -11,7 +11,7 @@
     "confirm window"
   ],
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --mode production"
   },
   "author": "Subhasish Sarkar",
   "license": "ISC",
