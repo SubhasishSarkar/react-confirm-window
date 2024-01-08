@@ -9,7 +9,7 @@ import Alert from "./Alert";
 import "./index.css"
 const ConfirmDialog = createContext();
 
-function ConfirmDialogProvider({ children,dialogComponent }) {
+export function ConfirmDialogProvider({ children,dialogComponent }) {
     const [state, setState] = useState(false);
     const fn = useRef();
     const DialogComponent = dialogComponent
@@ -47,7 +47,7 @@ function ConfirmDialogProvider({ children,dialogComponent }) {
         </ConfirmDialog.Provider>
     );
 }
-export default ConfirmDialogProvider
+ 
 export function useConfirm() {
     return useContext(ConfirmDialog);
 }

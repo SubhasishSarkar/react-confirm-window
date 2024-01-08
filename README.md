@@ -18,7 +18,7 @@ It provides various customization options and can be used just by calling the us
 ### For default modal component provide by the library : 
 Wrapper your App with the ConfirmDialogProvider
 ```javascript
-import ConfirmDialogProvider from 'react-confirm-window'
+import {ConfirmDialogProvider} from 'react-confirm-window'
 function App() {
   return (
       <ConfirmDialogProvider>
