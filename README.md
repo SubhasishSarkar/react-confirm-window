@@ -33,7 +33,7 @@ import {useConfirm} from 'react-confirm-window'
 
 function Component() {
   const confirm = useConfirm();
-    const handleDelete = ()=>{
+    const handleDelete = async()=>{
         const choice = await confirm({
             header: "Please Confirm",
             title: "Are you sure you want to delete?",
